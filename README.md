@@ -48,11 +48,6 @@ By understanding and implementing this project, developers and artists can apply
 
 <br/><br/> 
 
-> ## Technical Details
-The project involves the following components:
-
-- **Three.js**: A JavaScript library used to create and display animated 3D computer graphics in a web browser.
-
 ### Technologies and Tools Used
 - **Programming Language**: JavaScript
 - **Graphics Library**: Three.js
